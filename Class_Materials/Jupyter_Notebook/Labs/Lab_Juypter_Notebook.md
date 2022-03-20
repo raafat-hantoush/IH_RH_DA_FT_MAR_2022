@@ -19,11 +19,11 @@ In the notebook that you created, you will introduce someone and her/his holiday
 + Write a function that takes input for their holidays preference. This can be one question or multiple questions to understand this person's preferences. Make sure you test it yourself. 
 + Add a photo or screenshot of the holiday destination
 + Add bullet points of the top 3 things that the person likes to do  at this destination.
-+ Try to make the text colorful, bold or italic.
-+ Add a link to a youtube video of the destination.
-+ add relevant annotations to explain any function or module you have used 
++ add relevant annotations to explain any function  you have used 
 
 ### Optional 
++ Try to make the text colorful, bold or italic.
++ Add a link to a youtube video of the destination.
 + create an navigable index at the top of your jupyter notebook  
 + Add titles to all sections you have created, and then create hyperlinks from the elements of the index to their corresponding section title.
 + using Jupyter Notebook Slides, try to present your solution in the slides format. 
