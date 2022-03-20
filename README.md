@@ -55,11 +55,6 @@
 
 **👉 **&nbsp;** Table of Contents**
 
-<details>
-
-<summary>📅  &nbsp;Week 1 - Python, Pre-Work</summary>
-
-
 <table>
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
@@ -266,8 +261,6 @@ Weekly Retro
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
