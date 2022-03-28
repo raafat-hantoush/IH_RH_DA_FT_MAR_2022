@@ -263,10 +263,6 @@ Weekly Retro
 </table>
 
 </details>
-<details>
-
-<summary>📅  &nbsp;Week 2 - EDA </summary>
-
 
 <table>
   <tr>
@@ -429,9 +425,6 @@ Weekly Retro
    </td>
   </tr>
 </table>
-
-
-</details>
 
 <details>
 
