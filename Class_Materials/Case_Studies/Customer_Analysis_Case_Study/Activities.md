@@ -9,7 +9,6 @@
 - clean the number of open complaints and extract the middle number which is changing between records. pay attention that the number of open complaints is a categorical feature.
 - Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
 - Removing duplicates
-- (later)
 - Replacing null values – Replace missing values with means of the column (for numerical columns)
 
 ### Activity 2
@@ -21,7 +20,7 @@
 
 - Which columns are numerical?
 - Which columns are categorical?
-- Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. Hint: If data from March does not exist, consider only January and February.
+- (optional) Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. Hint: If data from March does not exist, consider only January and February.
 
 ### Activity 4
 
