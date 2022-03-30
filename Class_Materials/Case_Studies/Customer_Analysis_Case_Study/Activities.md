@@ -31,7 +31,7 @@
   - Use Matplotlib to construct histograms
   - Do the distributions for different numerical variables look like a normal distribution 
 - For the numerical variables, check the multicollinearity between the features. Please note that we will use the column `total_claim_amount` later as the target variable.
-- Drop one of the two features that show a high correlation between them (greater than 0.9). If there is no pair of features that have a high correlation, then do not drop any features.
+- Optional: Drop one of the two features that show a high correlation between them (greater than 0.9). If there is no pair of features that have a high correlation, then do not drop any features.
 
 ### Activity 5
 
