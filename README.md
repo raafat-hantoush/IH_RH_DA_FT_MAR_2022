@@ -261,7 +261,7 @@ It is Friday!! 🥳😎✌️
 <p>
 Weekly Retro
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/tree/main/Class_Materials/Pandas/Labs">[Lab] Pandas Exercises</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/tree/main/Class_Materials/Pandas/Labs/Lab_Pandas_part_1.ipynb">[Lab] Pandas Exercises</a>
    </td>
   </tr>
 </table>
