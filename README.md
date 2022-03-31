@@ -1,4 +1,5 @@
 <!-- Yay, no errors, warnings, or alerts! -->
+
 <div align="center">
 
 <img src="header.jpg" alt="Data Analytics" style="height: 225px; width:1300px;"/>
@@ -55,7 +56,10 @@
 **👉 **&nbsp;** Table of Contents**
 
 <details>
-<summary>📅  &nbsp;Week 1 - Programming, Data Analysis Intro </summary>
+
+<summary>📅  &nbsp;Week 1 - Python, Data Analysis Intro </summary>
+
+
 <table>
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
@@ -262,7 +266,9 @@ Weekly Retro
   </tr>
 </table>
 
+
 </details>
+
 
 <table>
   <tr>
@@ -285,7 +291,7 @@ Weekly Retro
 
 <li>Data Cleaning using Pandas
 
-<li>Statistics basics ( samples, probability, distributions, random variables, samples, measures of central tendency and dispersion)
+<li>Statistics basics ( samples, probability, distributions, random variables, samples, measures of central tendency and dispersion).
 
 <p>
 <strong>Week 2 | Day3 `s Key Objectives:</strong>
@@ -425,6 +431,7 @@ Weekly Retro
    </td>
   </tr>
 </table>
+
 
 <details>
 
