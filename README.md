@@ -269,6 +269,10 @@ Weekly Retro
 
 </details>
 
+<details>
+
+<summary>📅  &nbsp;Week 2 - EDA </summary>
+
 
 <table>
   <tr>
@@ -433,9 +437,7 @@ Weekly Retro
 </table>
 
 
-<details>
-
-<summary>📅  &nbsp;Week 3 - Databases, Tableau</summary>
+</details>
 
 
 <table>
@@ -610,8 +612,6 @@ Weekly Retro
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
