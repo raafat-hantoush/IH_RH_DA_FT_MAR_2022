@@ -44,6 +44,7 @@
 
 
 ### Activity 6
+- One Hot/Label Encoding of the categorical variables in the categoricals data frame that you created in Activity 4.
+- for the first iteration, we will focus on the  numericals data (numericals data frame) as our data source.
 - X-y split.
-- Normalize (numerical).
-- One Hot/Label Encoding (categorical).
+
