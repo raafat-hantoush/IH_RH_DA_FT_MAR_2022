@@ -46,5 +46,7 @@
 ### Activity 6
 - One Hot/Label Encoding of the categorical variables in the categoricals data frame that you created in Activity 4.
 - for the first iteration, we will focus on the  numericals data (numericals data frame) as our data source.
+- remove the outliers from the numerical columns.
+- check if there are highly correlated features and drop them if there are any.
 - X-y split.
 
