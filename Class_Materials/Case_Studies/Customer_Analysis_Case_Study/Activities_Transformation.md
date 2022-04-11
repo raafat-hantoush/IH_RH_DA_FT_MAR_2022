@@ -44,6 +44,7 @@
 
 
 ### Activity 6
+Hint: use the file Create Data_Marketing_Customer_Analysis_Round3.csv
 - One Hot/Label Encoding of the categorical variables in the categoricals data frame that you created in Activity 4. ( Hint:  check Dropfirst option).
 - for the first iteration, we will focus on the  numericals data (numericals data frame) as our data source.
 - remove the outliers from the numerical columns.
