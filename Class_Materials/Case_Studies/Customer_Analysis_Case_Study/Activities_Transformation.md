@@ -48,5 +48,5 @@
 - for the first iteration, we will focus on the  numericals data (numericals data frame) as our data source.
 - remove the outliers from the numerical columns.
 - check if there are highly correlated features and drop them if there are any.
-- X-y split.
+- X-y split (y is the target variable which  is the total claim amount)
 
