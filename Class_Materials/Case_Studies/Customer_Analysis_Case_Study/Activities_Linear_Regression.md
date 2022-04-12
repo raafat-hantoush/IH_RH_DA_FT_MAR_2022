@@ -4,6 +4,8 @@
 - Standardize the data (after the data split).
 - Apply linear regression.
 - Model Interpretation.
+-
+for tomorrow 
 #### Model Validation
 - Model Evaluation:
   - MSE.
