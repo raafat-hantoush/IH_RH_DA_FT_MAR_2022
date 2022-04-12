@@ -439,10 +439,14 @@ Weekly Retro
 
 </details>
 
+<details>
+
+<summary>📅  &nbsp; Week 3 - Databases, BI</summary>
+
 
 <table>
   <tr>
-   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 3</strong></h2>
+   <td colspan="6" ><h2>📅 &nbsp;  <strong>Week 3</strong></h2>
 <p>
 <strong>Week 3 | Day 5 `s Learning Objectives:</strong>
 <ul>
@@ -507,6 +511,8 @@ Weekly Retro
   <tr>
    <td><strong>Monday</strong>
    </td>
+   <td>
+   </td>
    <td><strong>Tuesday</strong>
    </td>
    <td><strong>Wednesday</strong>
@@ -528,6 +534,8 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
+   </td>
+   <td>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Xbe7J-rbWzFc3qHQ-vFLh4jD1Ka8ZN76/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Joins & ERD</a>
 <p>
@@ -613,9 +621,7 @@ Weekly Retro
 </table>
 
 
-<details>
-
-<summary>📅  &nbsp; Week 4 - Regression, Hypothesis Testing</summary>
+</details>
 
 
 <table>
@@ -790,8 +796,6 @@ Weekly Retro
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
