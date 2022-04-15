@@ -791,7 +791,7 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">Optional [Lab] Hypothesis Testing</a>
    </td>
   </tr>
 </table>
