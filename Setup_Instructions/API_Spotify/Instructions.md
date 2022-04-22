@@ -9,7 +9,7 @@ What we need:
 
 - **spotipy**, an API wrapper library to conveniently access the Spotify API in Python. We need that towards middle of the week. Install via ```conda install -c conda-forge spotipy```
 
-- **A spotify account**. Not a paid one. A free one will be just fine. Although you can use your existing one, if you already have one.
+- **A spotify account**. Not a paid one. A free one will be just fine. Although you can use your existing one, if you already have one. Nontheless, It is better to have seperate spotify developer account and not using your normal spotify account.
 
 In order to get access to the Spotify API (on Wednesday I think), we need to get our own ```client_id``` and ```client_secret``` (never share these with anyone and don't upload it to github. You can reset the secret though, if you have accidentally published it). To get it, go to [developer.spotify](https://developer.spotify.com/dashboard/login) , login with your account credentials, accept the terms of conditions. In the following click on "create an app". Give it a name, check that you understand the TOS. That green rectangle that now appears is your app (see screenshots). Click it, and in there you need to copy your client_id and client_secret.
 
