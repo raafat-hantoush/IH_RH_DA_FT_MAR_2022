@@ -858,6 +858,10 @@ It is Friday!! 🥳😎✌️
 
 </details>
 
+<details>
+
+<summary>📅  &nbsp; Week 6 - Song Recommender</summary>
+
 
 <table>
   <tr>
@@ -1016,9 +1020,7 @@ It is Friday!! 🥳😎✌️
 </table>
 
 
-<details>
-
-<summary> 📅  &nbsp; Week 7 - Advanced-ML</summary>
+</details>
 
 
 <table>
@@ -1098,10 +1100,6 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1e4iNB5vLgFWKgLfjiwJpQdk-n4zql7lo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] KNN</a>
-<p>
-<br>
-<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
 <p>
 <br>
@@ -1110,17 +1108,21 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1e4iNB5vLgFWKgLfjiwJpQdk-n4zql7lo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] KNN</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
+<a href="https://docs.google.com/presentation/d/1dzIDTm2akI_J2ol3AP5Qn6SByc3byeqq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Logistic Regression</a>
 <p>
 <br>
 <p>
 <a href="https://docs.google.com/presentation/d/1e1kUeclxo7OUaRBc0-rZsSdKIrbd_Yjc/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Evaluating Classification Models</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
 <p>
 <br>
 <p>
@@ -1191,8 +1193,6 @@ It is Friday!! 🥳😎✌️
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
