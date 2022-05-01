@@ -870,8 +870,6 @@ It is Friday!! 🥳😎✌️
 <strong>Week 6 | Day 5 `s Learning Objectives:</strong>
 <ul>
 
-<li>Weekly Recap
-
 <li>Working on the product
 
 <p>
@@ -1010,10 +1008,6 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-[Weekly Retro]
-<p>
-<br>
-<p>
 <a href="https://docs.google.com/presentation/d/1lW1kWqi6oPqUUSjcT9B-taMpl7bawvUC/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project </a>
    </td>
   </tr>
@@ -1058,6 +1052,8 @@ It is Friday!! 🥳😎✌️
 <strong>Week 7 | Day 2 `s Learning Objectives:</strong>
 <ul>
 
+<li>KNN
+
 <li>Logistic regression 
 
 <li>Evaluating Classification models
@@ -1067,8 +1063,6 @@ It is Friday!! 🥳😎✌️
 <ul>
 
 <li>Feature Selection
-
-<li>KNN
 </li>
 </ul>
 </li>
@@ -1096,7 +1090,11 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1s_k1vwvITN6xQfBEpTAOCmnJq7XgeeV_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Feature Selection</a>
+   <td>{Song Recommender Presentations}
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1s_k1vwvITN6xQfBEpTAOCmnJq7XgeeV_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Feature Selection</a>
 <p>
 <br>
 <p>
@@ -1105,6 +1103,10 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
+<p>
+<br>
+<p>
+[Weekly Retro]
 <p>
 <br>
 <p>
@@ -1155,6 +1157,10 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<p>
+<br>
+<p>
+<a href="https://drive.google.com/file/d/1fCNDcFhS13FT2UoN1zcIkfu_vjPl_dUv/view?usp=sharing">[Data] Imbalanced Data Set</a>
 <p>
 <br>
 <p>
@@ -1232,11 +1238,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td>[Guest Speaker]
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/10R8MRBZVApf8tJIJwL4TwUrh7oXaDna0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
+   <td><a href="https://docs.google.com/presentation/d/10R8MRBZVApf8tJIJwL4TwUrh7oXaDna0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Agile/ Project Management</a>
 <p>
 <br>
 <p>
