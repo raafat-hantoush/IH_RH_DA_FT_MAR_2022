@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Class_Materials/Web_Scraping/config.py
+Class_Materials/Data Processing/Data/numerical.csv
