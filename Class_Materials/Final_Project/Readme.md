@@ -18,9 +18,9 @@ Turn in all deliverables and meet all requirements by the end of Week 9
 - Select the algorithm, statistical methods or technical building blocks that could give the best results, most efficiently
 
 ### Rules
-- Team of two people is recommended and it is the maximum number allowed.
+- Team of two people is recommended and it is the maximum number allowed. An exception might be applied after the approval from the teaching team.
 - every team has 5 minutes presentation (unless if u have bonus) and 5 mins Q&A/feedback.
-- you should cme prepared with every project artifacts(notebooks, Tableau worksheets, etc) in case of some questions that needs clarifications.
+- you should come prepared with every project artifacts(notebooks, Tableau worksheets, etc) in case of some questions that needs clarifications.
 --- 
 
 ## Datasets
