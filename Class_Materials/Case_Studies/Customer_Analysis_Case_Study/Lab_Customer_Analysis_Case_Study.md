@@ -14,7 +14,7 @@ Based on the analysis, take targeted actions to increase profitable customer res
 
 ## Activities
 
-Refer to the [`Activities.md`](/Activities.md) file where you will find guidelines for some of the activities that you want to do.
+Refer to the [`Activities.md`](./Activities.md) file where you will find guidelines for some of the activities that you want to do.
 
 ## Data
 
