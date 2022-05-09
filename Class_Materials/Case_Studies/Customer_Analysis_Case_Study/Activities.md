@@ -9,15 +9,15 @@
 - clean the number of open complaints and extract the middle number which is changing between records. pay attention that the number of open complaints is a categorical feature.
 - Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
 - Removing duplicates
-- Replacing null values – Replace missing values with means of the column (for numerical columns). Pay attention that the Income feature for instance has 0s which is equivalent to null values. (We assume here that there is no such income with 0 as it refers to missing values)
 
 ### Activity 2
-
+- Replacing null values – Replace missing values with means of the column (for numerical columns). Pay attention that the Income feature for instance has 0s which is equivalent to null values. (We assume here that there is no such income with 0 as it refers to missing values)
 - Bucketing the data - Write a function to replace column "State" to different zones. California as West Region, Oregon as North West, and Washington as East, and Arizona and Nevada as Central
-- Standardizing the data – Use string functions to standardize the text data (lower case)
+- (Optional) Standardizing the data – Use string functions to standardize the text data (lower case)
 - (optional) Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. Hint: If data from March does not exist, consider only January and February.
 
 <b>Important: for Activity 4 and Activity 5 , please use the [file Data_Marketing_Customer_Analysis_Round3.csv](./Data/Data_Marketing_Customer_Analysis_Round3.csv) from the Data folder.</b>
+
 ### Activity 3
 
 - Get the numeric data into dataframe called `numerical` and categorical columns in a dataframe called `categoricals`.
