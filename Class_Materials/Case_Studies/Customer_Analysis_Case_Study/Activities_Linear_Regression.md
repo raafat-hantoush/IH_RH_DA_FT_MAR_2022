@@ -1,5 +1,5 @@
 ### Activity
-(Tuseday)
+(Tuesday)
 #### Linear Regression
 - Train-test split.
 - Standardize the data (after the data split).
