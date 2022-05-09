@@ -9,7 +9,7 @@
 - clean the number of open complaints and extract the middle number which is changing between records. pay attention that the number of open complaints is a categorical feature.
 - Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
 - Removing duplicates
-- Replacing null values – Replace missing values with means of the column (for numerical columns)
+- Replacing null values – Replace missing values with means of the column (for numerical columns). Pay attention that the Income feature for instance has 0s which is equivalent to null values. (We assume here that there is no such income with 0 as it refers to missing values)
 
 ### Activity 2
 
