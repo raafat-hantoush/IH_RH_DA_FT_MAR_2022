@@ -13,6 +13,7 @@ In this lab, we will first take a look at the degree of imbalance in the data an
 
 Here is the list of steps to be followed (building a simple model without balancing the data):
 
+Round 1
 - Import the required libraries and modules that you would need.
 - Read that data into Python and call the dataframe `churnData`.
 - Check the datatypes of all the columns in the data. You would see that the column `TotalCharges` is object type. Convert this column into numeric type using `pd.to_numeric` function.
@@ -21,7 +22,7 @@ Here is the list of steps to be followed (building a simple model without balanc
   - Scale the features either by using normalizer or a standard scaler.
   - Split the data into a training set and a test set.
   - Fit a logistic Regression model on the training data.
-  - Fit a Knn Classifier model on the training data
+  - Fit a Knn Classifier(NOT KnnRegressor please!)model on the training data.
  
  Round 2
   - Fit a Decision Tree Classifier on the training data.
