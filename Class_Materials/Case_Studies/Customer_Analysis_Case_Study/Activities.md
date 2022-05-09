@@ -1,5 +1,5 @@
 # Activites List
-Important: for Activity 1, Activity 2 and  Activity 3 , please use the files [file1.csv](./Data/file1.csv), [file2.csv](./Data/file2.csv) and [file3.csv](./Data/file3.csv) from the Data folder.
+```Important: for Activity 1, Activity 2 and  Activity 3 , please use the files [file1.csv](./Data/file1.csv), [file2.csv](./Data/file2.csv) and [file3.csv](./Data/file3.csv) from the Data folder.```
 ### Activity 1
 
 - Aggregate data into one Data Frame using Pandas.
@@ -22,7 +22,7 @@ Important: for Activity 1, Activity 2 and  Activity 3 , please use the files [fi
 - Which columns are categorical?
 - (optional) Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. Hint: If data from March does not exist, consider only January and February.
 
-Important: for Activity 4 and Activity 5 , please use the [file Data_Marketing_Customer_Analysis_Round3.csv](./Data/Data_Marketing_Customer_Analysis_Round3.csv) from the Data folder.
+```Important: for Activity 4 and Activity 5 , please use the [file Data_Marketing_Customer_Analysis_Round3.csv](./Data/Data_Marketing_Customer_Analysis_Round3.csv) from the Data folder.```
 ### Activity 4
 
 - Get the numeric data into dataframe called `numerical` and categorical columns in a dataframe called `categoricals`.
