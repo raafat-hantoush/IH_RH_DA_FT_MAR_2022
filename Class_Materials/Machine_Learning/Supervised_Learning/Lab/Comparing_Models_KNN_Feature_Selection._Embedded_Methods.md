@@ -7,6 +7,6 @@ For this lab, we will be using the same dataset for the [customer analysis case 
 
 ### Instructions
 
-1. fit the models  `LinearRegressor`,`Lasso`,`Ridge` and `KNeighborsRegressor` and compare the model perofrmances. 
+1. fit the models  `LinearRegressor`,`Lasso`,`Ridge` and `KNeighborsRegressor` and compare the model performances. 
 2. (Optional) Define a function that takes a list of models and train (and tests) them so we can try a lot of them without repeating code.
 3. Use feature selection techniques to select subset of features to train the model with(if necessary).
